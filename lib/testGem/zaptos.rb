@@ -1,6 +1,6 @@
 class Zaptos
-    def rzt
-        self.gsub("z","t")
+    def addWings(name)
+        name = name + ' slayer'
 
     end
 end
